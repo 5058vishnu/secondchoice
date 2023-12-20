@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133282218815",
+    "project_id": "secondchoice-ffca5",
+    "storage_bucket": "secondchoice-ffca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133282218815:android:9d7ae93fe4d7e5539b898a",
+        "android_client_info": {
+          "package_name": "com.akshay.secondchoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DW1OEgg9CsPSEzEFLMDNtbre8ozSDv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
